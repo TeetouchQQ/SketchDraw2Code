@@ -1,0 +1,1 @@
+navbar { link-list link-list link-list } container { jumbotron { large-title button button } row { div-3 { img text } div-6 { button carousel } div-3 { img text } } }
